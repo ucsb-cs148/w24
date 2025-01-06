@@ -52,7 +52,7 @@ offering_menus:
         description: "Project"
       - title: Exam
         url: /exam/
-        description: "Exams"
+        description: "Proj. Milestones"
       - title: Cal
         url: /info/calendar/
         description: "Assignment Calendar"
