@@ -15,7 +15,7 @@ production_url: https://ucsb-cs148.github.io/
 
 home:
    title: UCSB CS148
-   url: /w24
+   url: /
    baseurl: /
 
 main_dropdown:
