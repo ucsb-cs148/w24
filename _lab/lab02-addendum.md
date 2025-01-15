@@ -3,7 +3,7 @@ desc: Expand README.md
 layout: lab
 num: lab02-addendum
 ready: true
-github_org: ucsb-cs148-w23
+github_org: ucsb-cs148-w24
 ---
 
 
